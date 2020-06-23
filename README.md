@@ -1,7 +1,7 @@
 # Hack2Gain's Android RAT
 
 <p align="center">
-  <img src="Andriod RAT_ Persistent_ User friendly UI_.png" width="100vw"/>
+  <img src="Andriod RAT_ Persistent_ User friendly UI_.png" width="1000"/>
 </p>
 
 ### You have two options to install it
