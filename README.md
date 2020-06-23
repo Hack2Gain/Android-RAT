@@ -1,11 +1,9 @@
-# AhMyth Android Rat
-###### Beta Version
-It consists of two parts :
-* Server side : desktop application based on electron framework (control panel)
-* Client side : android application (backdoor)
+# Hack2Gain's Android RAT
 
+<p align="center">
+  <img src="https://www.canva.com/design/DAEABgQMEog/wW140GCoBsxj_8iKGReSFQ/view?utm_content=DAEABgQMEog&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="600"/>
+</p>
 
-## Getting Started
 ### You have two options to install it
 #### 1) From source code
 ###### Prerequisite :
