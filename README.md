@@ -7,6 +7,15 @@ The AndriodRAT is a fully functioning remote access tool that uses a reverse she
 This tool can be made to be persistent, meaning that access to a remote andriod device can be maintained even after restarting the device.
 The AndriodRAT can also be made to be non-persistent, no traces will be left behind after the device is powered off.
 
+## Features
+- Access all messages from any app
+- Access cameras and external storage
+- Completely undetectable
+- Persistent
+- Leaves no traces when removed
+- Encrypted communication between client and server
+- **Keylogger**
+
 <p align="center">
   <img src="GPP-Remote-Control-120504.jpg" width="750"/>
 </p>
