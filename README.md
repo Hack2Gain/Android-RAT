@@ -11,7 +11,7 @@ The AndriodRAT can also be made to be non-persistent, no traces will be left beh
   <img src="GPP-Remote-Control-120504.jpg" width="750"/>
 </p>
 
-The AndriodRAT is made into a undetectable payload that will run on a remote device without detecton. It leaves no trace on the device and cannot be traced back to device containing the client software.
+The AndriodRAT is made into an undetectable payload that will run on a remote device without detecton. It leaves no trace on the device and cannot be traced back to device containing the client software.
 
 ## This application is maintained and consistently beats all anti-virus software!
 
