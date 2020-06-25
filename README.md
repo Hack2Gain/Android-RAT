@@ -21,7 +21,7 @@ The AndriodRAT can also be made to be non-persistent, no traces will be left beh
 <p align="left">
   <img src="Server-Side--AndriodRAT/RATAdminPanel.jpg" width="750"/>
 </p>
-------------
+
 ## Mobile App
 <p align="left">
   <img src="Server-Side--AndriodRAT/RATAdminPanelPhone.jpg" width="350"/>
