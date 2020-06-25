@@ -17,7 +17,10 @@ The AndriodRAT can also be made to be non-persistent, no traces will be left beh
 - **Keylogger**
 
 <p align="center">
-  <img src="GPP-Remote-Control-120504.jpg" width="750"/>
+  <img src="Server-Side--AndriodRAT/RATAdminPanel.jpg" width="750"/>
+</p>
+<p align="center">
+  <img src="Server-Side--AndriodRAT/RATAdminPanelPhone.jpg" width="750"/>
 </p>
 
 The AndriodRAT is made into an undetectable payload that will run on a remote device without detecton. It leaves no trace on the device and cannot be traced back to device containing the client software.
